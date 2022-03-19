@@ -25,11 +25,11 @@ Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do ci
 ## Como usar
 
 Para rodar o projeto é necessário ter instalado:
-Python 3 - https://www.python.org
-numpy - pip install numpy
-pandas - pip install pandas
-matplot - pip install matplotlib
-seaborn - pip install seaborn
+* Python 3 - https://www.python.org
+* numpy - pip install numpy
+* pandas - pip install pandas
+* matplot - pip install matplotlib
+* seaborn - pip install seaborn
 
 
 ### Referências 
