@@ -17,8 +17,6 @@ Checkpoint feito, que teve como objetivo analisar dados de imóveis de SBC, anal
 
 ## Diagrama do projeto
 
-Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
-
 <img src="/imagem.jpg" width="550">
 
 
